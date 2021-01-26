@@ -1,0 +1,33 @@
+header {
+    display: flex;
+    width: 100%;
+    background-color: #66ccff;
+    padding-left:8px;
+}
+
+h1 {
+    margin-right: auto;
+}
+
+.menu-item {
+    list-style: none;
+    display: inline-block;
+    padding: 12px;
+}
+
+li a{
+    text-decoration: none;
+}
+img {
+    padding: 6px;
+}
+
+td {
+    padding: 6px;
+    text-decoration: none;
+}
+
+td a { 
+    text-decoration: none;
+}
+
